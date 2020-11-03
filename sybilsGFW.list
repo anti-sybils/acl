@@ -2,3 +2,4 @@
 
 DOMAIN,services.googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+IP-CIDR,203.208.32.0/19,no-resolve
